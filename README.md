@@ -9,7 +9,7 @@ Inicializar o servidor:
 
 Acessar o arquivo receiver.html
 
-Enviar as notificações atras como parametro na seguinte rota:
+Enviar as notificações como parametro na seguinte rota:
 ```
 	http://localhost:8080/api/notify?notification=mensagem
 ```
